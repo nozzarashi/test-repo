@@ -3,4 +3,6 @@ body {
   color: #000;
   border-radius: 10px;
   display: flex;
+}body {
+  background: black;
 }
