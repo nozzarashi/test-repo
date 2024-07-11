@@ -1,6 +1,6 @@
 body {
-  background: rgb(0, 94, 255);
-  color: rgb(0, 13, 255);
-  border-radius: 100px;
+  background: #ff00d9;
+  color: #ff00d9;
+  border-radius: 200px;
   display: flex;
 }
